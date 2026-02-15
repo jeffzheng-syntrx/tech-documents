@@ -41,7 +41,7 @@ For each scenario:
 # 8. Detailed Technical Design
 ## 8.1 Component Design (packages/classes/responsibilities)
 ## 8.2 API Design (if applicable)
-- Endpoints, request/response (use Java 18 `record` in examples)
+- Endpoints, request/response (use Java 21 `record` in examples)
 - Error model + codes
 - Idempotency strategy
 ## 8.3 Data Design

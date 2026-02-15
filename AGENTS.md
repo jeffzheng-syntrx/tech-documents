@@ -11,7 +11,7 @@ This repository stores guidance and reusable templates for generating engineerin
 - Be concise, professional, and implementation-ready.
 - Avoid vague claims unless attached to measurable targets.
 - Always include failure modes, edge cases, and test mapping.
-- Assume backend stack is **Java 18 + Spring Boot** unless explicitly stated otherwise.
+- Assume backend stack is **Java 21 + Spring Boot** unless explicitly stated otherwise.
 
 ## Missing information handling
 If required inputs are missing:
