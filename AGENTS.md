@@ -9,6 +9,7 @@ This repository stores guidance and reusable templates for generating engineerin
 - Keep the section order and headings exactly as defined in the template.
 - Target audience: Senior Engineers and QA Manager.
 - Be concise, professional, and implementation-ready.
+- Use simple English as much as possible.
 - Avoid vague claims unless attached to measurable targets.
 - Always include failure modes, edge cases, and test mapping.
 - Assume backend stack is **Java 21 + Spring Boot** unless explicitly stated otherwise.
